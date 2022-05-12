@@ -42,8 +42,6 @@ PASSWORD FOR ADMIN: admin
 Admin can edit products:
 ![image](https://user-images.githubusercontent.com/78695745/168052481-46dc7428-9a20-4b0a-b923-83bf290a85ed.png)
 
-![image](https://user-images.githubusercontent.com/78695745/168052552-2e723fd7-9a45-40b4-8cd1-ecd15749d984.png)
-
 ![image](https://user-images.githubusercontent.com/78695745/168053553-89f2fe80-a739-40a7-ad22-74342aa9db7d.png)
 
 ![image](https://user-images.githubusercontent.com/78695745/168053719-b9dbffcd-99ee-471a-9459-d97abdfff2ff.png)
