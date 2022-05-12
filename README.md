@@ -4,6 +4,11 @@ Main page:
 
 ![image](https://user-images.githubusercontent.com/78695745/168049036-f092ee42-6ff2-4b9d-a50a-cc0e8ce382a6.png)
 
+About page:
+
+![image](https://user-images.githubusercontent.com/78695745/168054169-ce5d4ab7-d09d-4477-a9d6-dee579b2fb0a.png)
+
+
 Login page:
 
 ![image](https://user-images.githubusercontent.com/78695745/168049319-ec5a4d46-9db3-4e85-89f5-d7f22733fbc4.png)
